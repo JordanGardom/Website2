@@ -17,7 +17,7 @@ html.index
 <h2>
 HTML Links
 
-<a href="name.html/" target="_blank">Visit name.html!</a> 
+<a href="https://github.com/JordanGardom/Website2/blob/main/name.html/" target="_blank">Visit name.html!</a> 
 
 <a href="https://github.com/JordanGardom/Website2/blob/main/color.html/" target="_blank">Visit color.html!</a> 
 </h2>
