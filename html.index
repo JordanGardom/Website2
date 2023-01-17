@@ -16,6 +16,4 @@ html.index
 
 <h1>HTML Links</h1>
 
-<p><a href="C:\Users\jorda\OneDrive\Documents\GitHub\Website2\color.html">Visit W3Schools.com!</a></p>
-C:\Users\jorda\OneDrive\Documents\GitHub\Website2\name.html
-
+<a href="name.html/" target="_blank">Visit name.html!</a> 
