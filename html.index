@@ -1,0 +1,15 @@
+html.index
+
+<!DOCTYPE html>
+<html>
+<body> 
+  
+ <h1>An ordered HTML list</h2>
+  
+  <ul>
+      <li>School Contact Info</li>
+      <li>jordan.gardom@oneidaihla.org</li>
+      <li></li>
+    </ul>
+  </body>
+</html>
