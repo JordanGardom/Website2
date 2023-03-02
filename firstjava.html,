@@ -1,5 +1,5 @@
-C:\Users\jorda\OneDrive\Documents\GitHub\Website2\html.index
 <!DOCTYPE html>
+:\Users\jorda\OneDrive\Documents\GitHub\Website2\html.index
 <html>
 
 <h2>My First Web Page</h2>
@@ -13,22 +13,58 @@ document.getElementById("demo").innerHTML = Jordan Gardom, class info: Web Desig
 
 
 
-<html2>
-<body2>
+<html>
+<body>
 
-<h2>My Basic Math</h2>
+<h5>My Basic Math</h5>
 <p>My Basic Math.</p>
 
 <p id="numbers"></p>
 
 <script>
-document.getElementById("numbers").innerHTML = 5 + 6;
-document.getElementById("numbers").innerHTML = 5 - 6;
 document.getElementById("numbers").innerHTML = 5 * 6;
 </script>
 
-</body2>
-</html2> 
+
+
+ 
+
+<h5>
+<p id="demo"></p>
+
+
+<script>
+document.getElementById("demo").innerHTML = 5 + 6;
+</script>
+
+</h5>
+
+<h5>
+
+
+
+<p id="antinumbers"></p>
+
+
+<script>
+document.getElementById("antinumbers").innerHTML = 5 - 6;
+</script>
+
+</h5>
+
+</body>
+</html>
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
